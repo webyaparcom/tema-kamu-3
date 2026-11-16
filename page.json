@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Rehber",
+        "en": "Directory",
+        "ar": "الدليل"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 0,
+      "icon": "person_search",
+      "desing": {
+        "header": [],
+        "body": [
+          "vdrhrk"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Aranabilir birim ve personel rehberi (kurgusal).",
+        "en": "Searchable department and staff directory (fictional).",
+        "ar": "دليل الوحدات والموظفين القابل للبحث (افتراضي)."
+      }
+    },
+    {
+      "id": "thz5zwrx7q",
+      "name": {
+        "tr": "Takvim",
+        "en": "Calendar",
+        "ar": "التقويم"
+      },
+      "description": {
+        "tr": "Ödeme, başvuru ve etkinlik takvimi (kurgusal).",
+        "en": "Payment, application and event calendar (fictional).",
+        "ar": "تقويم الدفعات والطلبات والفعاليات (افتراضي)."
+      },
+      "path": "sorular",
+      "icon": "calendar_month",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "vzp105",
+          "ebteap"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "w4fwpnpca9",
+      "name": {
+        "tr": "Randevu",
+        "en": "Booking",
+        "ar": "الموعد"
+      },
+      "description": {
+        "tr": "Hizmet noktası randevusu ve e-sıra (demo).",
+        "en": "Service point booking and e-queue (demo).",
+        "ar": "حجز موعد في نقطة الخدمة والدور الإلكتروني (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "confirmation_number",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "yjxk9u",
+          "h4ydw5"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "name": {
+        "tr": "Dilekçe",
+        "en": "Petition",
+        "ar": "عريضة"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 3,
+      "icon": "edit_note",
+      "desing": {
+        "header": [],
+        "body": [
+          "70pxpx",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Dilekçe formu ve hizmet noktaları haritası (demo).",
+        "en": "Petition form and service point map (demo).",
+        "ar": "نموذج العريضة وخريطة نقاط الخدمة (تجريبي)."
+      }
+    }
+  ],
+  "desc": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "w4fwpnpca9",
+  "name": {
+    "tr": "Randevu",
+    "en": "Booking",
+    "ar": "الموعد"
+  },
+  "description": {
+    "tr": "Hizmet noktası randevusu ve e-sıra (demo).",
+    "en": "Service point booking and e-queue (demo).",
+    "ar": "حجز موعد في نقطة الخدمة والدور الإلكتروني (تجريبي)."
+  },
+  "keyword": {
+    "tr": "randevu, sıra",
+    "en": "appointment, queue",
+    "ar": "موعد، دور"
+  },
+  "path": "teklif-al",
+  "icon": "confirmation_number",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "yjxk9u",
+      "h4ydw5"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Randevu",
+    "en": "Booking",
+    "ar": "الموعد"
+  },
+  "date": "2026-11-16T22:39:31.560Z",
+  "update": "2026-11-16T22:49:39.166Z"
+}

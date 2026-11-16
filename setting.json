@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Kıyıbaşı Belediyesi hizmet noktaları (kurgusal): canlı bekleme panosu, harita, e-sıra, randevu, ödeme takvimi ve dilekçe. Demo site; resmî bir kurum değildir.",
+    "en": "Kiyibasi Municipality service points (fictional): live waiting board, map, e-queue, appointments, payment calendar and petitions. Demo site; not an official body.",
+    "ar": "نقاط خدمة بلدية كييباشي (افتراضية): لوحة انتظار مباشرة وخريطة ودور إلكتروني ومواعيد وتقويم دفعات وعرائض. موقع تجريبي؛ ليست جهة رسمية."
+  },
+  "keyword": {
+    "tr": "belediye hizmet noktası, sıra, randevu, ödeme takvimi, dilekçe",
+    "en": "municipal service point, queue, appointment, payment calendar, petition",
+    "ar": "نقطة خدمة بلدية، دور، موعد، تقويم الدفعات، عريضة"
+  },
+  "category": "Kurumsal",
+  "name": "Kıyıbaşı",
+  "domain": "kamu-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "source-sans-3",
+    "heading": "barlow-condensed",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#F28C28",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "2px",
+    "--mx-radius-md": "4px",
+    "--mx-radius-lg": "6px",
+    "--mx-radius-xl": "8px"
+  },
+  "icon": "icon.png"
+}
