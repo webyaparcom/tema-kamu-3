@@ -1,0 +1,29 @@
+{
+  "name": "Kıyıbaşı",
+  "short_name": "Kıyıbaşı",
+  "description": "Kıyıbaşı Belediyesi hizmet noktaları (kurgusal): canlı bekleme panosu, harita, e-sıra, randevu, ödeme takvimi ve dilekçe. Demo site; resmî bir kurum değildir.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#F28C28",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

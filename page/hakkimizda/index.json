@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Rehber",
+    "en": "Directory",
+    "ar": "الدليل"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 0,
+  "icon": "person_search",
+  "desing": {
+    "header": [],
+    "body": [
+      "vdrhrk"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Aranabilir birim ve personel rehberi (kurgusal).",
+    "en": "Searchable department and staff directory (fictional).",
+    "ar": "دليل الوحدات والموظفين القابل للبحث (افتراضي)."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Rehber",
+    "en": "Directory",
+    "ar": "الدليل"
+  },
+  "keyword": {
+    "tr": "rehber, personel",
+    "en": "directory, staff",
+    "ar": "دليل، موظفون"
+  },
+  "text": {},
+  "update": "2026-11-16T22:49:39.150Z",
+  "date": "2026-10-30"
+}
