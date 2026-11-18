@@ -2,7 +2,9 @@
   "name": {
     "tr": "Dilekçe",
     "en": "Petition",
-    "ar": "عريضة"
+    "ar": "عريضة",
+    "de": "Antrag",
+    "ru": "Заявление"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Dilekçe formu ve hizmet noktaları haritası (demo).",
     "en": "Petition form and service point map (demo).",
-    "ar": "نموذج العريضة وخريطة نقاط الخدمة (تجريبي)."
+    "ar": "نموذج العريضة وخريطة نقاط الخدمة (تجريبي).",
+    "de": "Antragsformular und Karte der Servicepunkte (Demo).",
+    "ru": "Форма заявления и карта пунктов обслуживания (демо)."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Dilekçe",
     "en": "Petition",
-    "ar": "عريضة"
+    "ar": "عريضة",
+    "de": "Antrag",
+    "ru": "Заявление"
   },
   "keyword": {
     "tr": "dilekçe, iletişim",
     "en": "petition, contact",
-    "ar": "عريضة، اتصال"
+    "ar": "عريضة، اتصال",
+    "de": "Petition, Kontakt",
+    "ru": "петиция, контакт"
   },
   "text": {},
   "update": "2026-11-16T22:49:39.175Z",

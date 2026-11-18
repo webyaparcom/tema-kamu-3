@@ -3,17 +3,23 @@
   "name": {
     "tr": "Kalite Politikamız",
     "en": "Quality Policy",
-    "ar": "سياسة الجودة"
+    "ar": "سياسة الجودة",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "description": {
     "tr": "Kalite politikamız",
     "en": "Our quality policy",
-    "ar": "سياسة الجودة لدينا"
+    "ar": "سياسة الجودة لدينا",
+    "de": "Unsere Qualitätspolitik",
+    "ru": "Наша политика качества"
   },
   "keyword": {
     "tr": "Kalite Politikamız",
     "en": "quality policy, quality, continuous improvement",
-    "ar": "سياسة الجودة, الجودة, التحسين المستمر"
+    "ar": "سياسة الجودة, الجودة, التحسين المستمر",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "path": "kalitepolitikamiz",
   "icon": "verified",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Kalite Politikamız</h2>\n<p>Bu site kurgusal bir demodur; resmî kurum adına işlem yapmaz, kişisel veri saklamaz.</p>",
     "en": "<h2>Our quality policy</h2>\n<p>This site is a fictional demo; it does not act for any official body and stores no personal data.</p>",
-    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>هذا الموقع عرض تجريبي افتراضي؛ لا يتصرف باسم أي جهة رسمية ولا يحفظ بيانات شخصية.</p>"
+    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>هذا الموقع عرض تجريبي افتراضي؛ لا يتصرف باسم أي جهة رسمية ولا يحفظ بيانات شخصية.</p>",
+    "de": "<h2>Unsere Qualitätsrichtlinie</h2>\n<p>Diese Seite ist eine fiktive Demo; sie handelt nicht im Namen einer offiziellen Stelle und speichert keine personenbezogenen Daten.</p>",
+    "ru": "<h2>Наша политика качества</h2>\n<p>Этот сайт является фиктивным демо; он не действует от имени официальных органов и не хранит персональные данные.</p>"
   },
   "title": {
     "tr": "Kalite Politikamız",
     "en": "Quality Policy",
-    "ar": "سياسة الجودة"
+    "ar": "سياسة الجودة",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "date": "2026-11-16T22:39:31.145Z",
   "update": "2026-11-16T22:49:39.193Z",
