@@ -2,7 +2,9 @@
   "name": {
     "tr": "Rehber",
     "en": "Directory",
-    "ar": "الدليل"
+    "ar": "الدليل",
+    "de": "Verzeichnis",
+    "ru": "Справочник"
   },
   "status": "play",
   "category": "",
@@ -22,7 +24,9 @@
   "description": {
     "tr": "Aranabilir birim ve personel rehberi (kurgusal).",
     "en": "Searchable department and staff directory (fictional).",
-    "ar": "دليل الوحدات والموظفين القابل للبحث (افتراضي)."
+    "ar": "دليل الوحدات والموظفين القابل للبحث (افتراضي).",
+    "de": "Durchsuchbares Verzeichnis der Abteilungen und Mitarbeiter (fiktiv).",
+    "ru": "Поисковый каталог отделов и персонала (вымышленный)."
   },
   "spot": {
     "tr": "",
@@ -33,12 +37,16 @@
   "title": {
     "tr": "Rehber",
     "en": "Directory",
-    "ar": "الدليل"
+    "ar": "الدليل",
+    "de": "Verzeichnis",
+    "ru": "Справочник"
   },
   "keyword": {
     "tr": "rehber, personel",
     "en": "directory, staff",
-    "ar": "دليل، موظفون"
+    "ar": "دليل، موظفون",
+    "de": "Verzeichnis, Personal",
+    "ru": "справочник, персонал"
   },
   "text": {},
   "update": "2026-11-16T22:49:39.150Z",

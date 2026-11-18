@@ -4,12 +4,16 @@
   "description": {
     "tr": "Kıyıbaşı Belediyesi hizmet noktaları (kurgusal): canlı bekleme panosu, harita, e-sıra, randevu, ödeme takvimi ve dilekçe. Demo site; resmî bir kurum değildir.",
     "en": "Kiyibasi Municipality service points (fictional): live waiting board, map, e-queue, appointments, payment calendar and petitions. Demo site; not an official body.",
-    "ar": "نقاط خدمة بلدية كييباشي (افتراضية): لوحة انتظار مباشرة وخريطة ودور إلكتروني ومواعيد وتقويم دفعات وعرائض. موقع تجريبي؛ ليست جهة رسمية."
+    "ar": "نقاط خدمة بلدية كييباشي (افتراضية): لوحة انتظار مباشرة وخريطة ودور إلكتروني ومواعيد وتقويم دفعات وعرائض. موقع تجريبي؛ ليست جهة رسمية.",
+    "de": "Servicestellen der Stadtverwaltung Kıyıbaşı (fiktiv): Live-Wartetafel, Karte, E-Warteschlange, Termin, Zahlungskalender und Antrag. Demo-Website; keine amtliche Behörde.",
+    "ru": "Пункты обслуживания муниципалитета Kıyıbaşı (вымышленные): онлайн-табло ожидания, карта, электронная очередь, запись, календарь платежей и заявление. Демо-сайт; не является официальным учреждением."
   },
   "keyword": {
     "tr": "belediye hizmet noktası, sıra, randevu, ödeme takvimi, dilekçe",
     "en": "municipal service point, queue, appointment, payment calendar, petition",
-    "ar": "نقطة خدمة بلدية، دور، موعد، تقويم الدفعات، عريضة"
+    "ar": "نقطة خدمة بلدية، دور، موعد، تقويم الدفعات، عريضة",
+    "de": "Gemeindeservicepunkt, Warteschlange, Termin, Zahlungsplan, Petition",
+    "ru": "Точка обслуживания муниципалитета, очередь, запись, график платежей, петиция"
   },
   "category": "Kurumsal",
   "name": "Kıyıbaşı",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Belediye hizmetine en yakın noktadan, en kısa beklemeyle ulaşmayı sağlamak.</p>",
     "en": "<h2>Our mission</h2>\n<p>To let people reach municipal services from the nearest point with the shortest wait.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>تمكين الناس من الوصول إلى خدمات البلدية من أقرب نقطة وبأقصر انتظار.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>تمكين الناس من الوصول إلى خدمات البلدية من أقرب نقطة وبأقصر انتظار.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Den Zugang zu kommunalen Leistungen am nächstgelegenen Ort und mit kürzester Wartezeit zu ermöglichen.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Обеспечивать доступ к муниципальным услугам в ближайшем пункте и с минимальным ожиданием.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T22:39:31.145Z",
   "update": "2026-11-16T22:49:39.188Z",

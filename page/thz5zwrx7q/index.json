@@ -3,17 +3,23 @@
   "name": {
     "tr": "Takvim",
     "en": "Calendar",
-    "ar": "التقويم"
+    "ar": "التقويم",
+    "de": "Kalender",
+    "ru": "Календарь"
   },
   "description": {
     "tr": "Ödeme, başvuru ve etkinlik takvimi (kurgusal).",
     "en": "Payment, application and event calendar (fictional).",
-    "ar": "تقويم الدفعات والطلبات والفعاليات (افتراضي)."
+    "ar": "تقويم الدفعات والطلبات والفعاليات (افتراضي).",
+    "de": "Zahlung, Bewerbung und Veranstaltungskalender (fiktiv).",
+    "ru": "Оплата, подача заявки и календарь мероприятий (вымышленные)."
   },
   "keyword": {
     "tr": "takvim, ödeme",
     "en": "calendar, payment",
-    "ar": "تقويم، دفع"
+    "ar": "تقويم، دفع",
+    "de": "Kalender, Zahlung",
+    "ru": "календарь, оплата"
   },
   "path": "sorular",
   "icon": "calendar_month",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Takvim",
     "en": "Calendar",
-    "ar": "التقويم"
+    "ar": "التقويم",
+    "de": "Kalender",
+    "ru": "Календарь"
   },
   "date": "2026-11-16T22:39:31.535Z",
   "update": "2026-11-16T22:49:39.157Z"
